@@ -82379,6 +82379,22 @@
       "extensions": {
         "website": "https://standupclubnft.ru/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "8JKjt6YCNBqr5HWbwYm4kHJH9iRgAgjuX1paawPX332K",
+      "symbol": "TRMPSTR",
+      "name": "Trumpster Token",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Trumpster-Token/tokenassets/main/TrumpsterToken.png",
+      "tags": [
+        "utility-token",
+        "nft",
+        "meme-token"
+      ],
+      "extensions": {
+        "website": "https://trumpster.io"
+      }
     }
   ],
   "version": {
